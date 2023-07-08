@@ -31,7 +31,7 @@ function Check() {
 					
 			  </div>
 			
-				<div className="card bg-sohbet border-0 m-0 p-0" style={{height:"100vh"}}>
+				<div className="card bg-sohbet border-0 m-0 p-0" style={{height:"80vh"}}>
 			  <div id="sohbet" className="card border-0 m-0 p-0 position-relative bg-transparent" style={{overflowY: "auto", height: "100vh"}}>
 			
 				<div className="balon1 p-2 m-0 position-relative" data-is="You - 3:20 pm">
